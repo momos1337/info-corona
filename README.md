@@ -26,3 +26,10 @@ clang -Wall -g -I/usr/local/include/json-c -I/usr/include/x86_64-linux-gnu/curl 
 ```sh
 python3 corona.py
 ```
+
+
+
+### Cara menjalankan (Versi Javascript)
+#### requirment
+- browser
+- opne your index.html on browser
