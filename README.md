@@ -32,4 +32,4 @@ python3 corona.py
 ### Cara menjalankan (Versi Javascript)
 #### requirment
 - browser
-- opne your index.html on browser
+- open your index.html on browser
